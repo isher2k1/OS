@@ -1,0 +1,11 @@
+OC.Scheduling Type: Batch (Nonpreemptive)
+OC.Scheduling Name: Shortest remaining time first
+Simulation Run Time: 8725
+Mean: 1100
+Standard Deviation: 510
+OC.Process #	CPU Time	IO Blocking	CPU Completed	CPU Blocked
+0		1544 (ms)	100 (ms)	1544 (ms)	15 times
+1		1795 (ms)	500 (ms)	1795 (ms)	3 times
+2		1795 (ms)	30 (ms)		1795 (ms)	59 times
+3		1795 (ms)	100 (ms)	1795 (ms)	17 times
+4		1795 (ms)	60 (ms)		1795 (ms)	29 times
